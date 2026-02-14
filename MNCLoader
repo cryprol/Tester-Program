@@ -1,1 +1,1 @@
-
+loadstring(game:HttpGet(("https://raw.githubusercontent.com/cryprol/Tester-Program/refs/heads/main/MNC"), true))()
